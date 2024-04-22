@@ -1,0 +1,3 @@
+#define KC_MAC_COPY LGUI(KC_C)
+#define KC_PC_UNDO LCTL(KC_Z)
+#define KC_MAC_PASTE LGUI(KC_V)
